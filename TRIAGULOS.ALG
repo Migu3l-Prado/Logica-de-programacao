@@ -1,4 +1,6 @@
 algoritmo "TRIAGULOS"
+//  
+//  
 var
  L1,L2,L3: Real
  EQ,ES,Tri : Logico
@@ -15,5 +17,6 @@ inicio
   Escreval("pode formar um triangulo? ",Tri)
   Escreval("O triangulo é EQUILATERO? ", EQ)
   Escreval("O triangulo é ESCALENO? ", ES)
-
+  Escreval("Alterado")
+  
 fimalgoritmo
