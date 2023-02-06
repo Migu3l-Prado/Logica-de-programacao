@@ -15,8 +15,9 @@ inicio
   EQ <- (L1=L2) e (L2=L3)
   ES <- (L1<>L2) e (L2<>L3) e (L1<>L3)
   Escreval("pode formar um triangulo? ",Tri)
-  Escreval("O triangulo é EQUILATERO? ", EQ)
-  Escreval("O triangulo é ESCALENO? ", ES)
+  Escreval("O triangulo ï¿½ EQUILATERO? ", EQ)
+  Escreval("O triangulo ï¿½ ESCALENO? ", ES)
   Escreval("Alterado")
+  Escreval("ok")
   
 fimalgoritmo
