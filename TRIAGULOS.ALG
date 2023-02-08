@@ -18,6 +18,7 @@ inicio
   Escreval("O triangulo � EQUILATERO? ", EQ)
   Escreval("O triangulo � ESCALENO? ", ES)
   Escreval("Alterado")
-  Escreval("ok")
+  Escreval("okk")
+  
   
 fimalgoritmo
