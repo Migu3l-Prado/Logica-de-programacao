@@ -9,6 +9,6 @@ inicio
    escreval("a soma entre ", N1 ," e ", N2 ," � ")
    M <- N1+N2
    escreva(M)
-
+   escreval("ok")
 
 fimalgoritmo
