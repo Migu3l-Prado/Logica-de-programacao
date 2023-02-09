@@ -11,4 +11,6 @@ inicio
    escreva(M)
    escreval("ok")
    escreval("alteracao 2")
+   escreval("alteracao 3")
+   
 fimalgoritmo
