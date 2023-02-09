@@ -6,7 +6,7 @@ inicio
    leia(N1)
    escreval("outro numero")
    Leia(N2)
-   escreval("a soma entre ", N1 ," e ", N2 ," é ")
+   escreval("a soma entre ", N1 ," e ", N2 ," ï¿½ ")
    M <- N1+N2
    escreva(M)
 
