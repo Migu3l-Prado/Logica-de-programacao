@@ -10,5 +10,5 @@ inicio
    M <- N1+N2
    escreva(M)
    escreval("ok")
-
+   escreval("alteracao 2")
 fimalgoritmo
